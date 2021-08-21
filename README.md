@@ -1,5 +1,3 @@
-### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=dotslash&theme=merko)
 
-Ahh, this works!
-
-<!-- ![](https://komarev.com/ghpvc/?username=dotslash)>
+![](https://komarev.com/ghpvc/?username=dotslash)
