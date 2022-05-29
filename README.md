@@ -1,5 +1,6 @@
-* A little bit of everything 
+* Knows a little bit of everything
 * enjoys golang, python
+  * IMO scala is gross 
 * [Free advice] you should sqlite more often
 
 
