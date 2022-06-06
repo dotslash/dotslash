@@ -1,7 +1,7 @@
 * Knows a little bit of everything
 * enjoys golang, python
   * IMO scala is gross 
-* [Free advice] you should use sqlite more often
+* you should use sqlite more often
 
 
 
