@@ -5,7 +5,7 @@
 
 
 
-Use [recent2](https://github.com/dotslash/recent2) and thank me later. Its a lot better than ctrl-r for searching bash history. I have easy access to 2yrs worth of bash history thanks to recent2
+Use [recent2](https://github.com/dotslash/recent2) and thank me later. Its a lot better than ctrl-r for searching bash history. I have easy access to 2+ yrs of bash history thanks to recent2
 
 Misc recent things
 * https://github.com/dotslash/cloudsync: WIP 2 way file sync between gcs and local machine   
