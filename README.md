@@ -1,4 +1,4 @@
-* Knows a little bit of everything
+* Knows a little bit about a lot of things
 * enjoys golang, python
   * IMO scala is gross 
 * you should use sqlite more often
